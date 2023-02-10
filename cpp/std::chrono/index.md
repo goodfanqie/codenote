@@ -1,5 +1,5 @@
 ## std::chrono
-要使用chrono库，需要#include<chrono>，其所有实现均在std::chrono namespace下。注意标准库里面的每个命名空间代表了一个独立的概念。所以下文中的概念均以命名空间的名字表示！ chrono是一个模版库，使用简单，功能强大，只需要理解三个概念：`duration、time_point、clock`
+chrono是一个模版库，使用简单，功能强大，只需要理解三个概念：`duration、time_point、clock`
 
 ### Duration
 
