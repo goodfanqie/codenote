@@ -1,2 +1,2 @@
 # recipes
-Some code snippets for sharing
+My codenote and some code snippets for sharing
