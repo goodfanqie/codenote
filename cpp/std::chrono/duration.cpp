@@ -28,7 +28,7 @@ int main()
     //hours_type h_onehour (s_onehour);          // NOT VALID (type truncates), use:
     hours_type h_onehour (std::chrono::duration_cast<hours_type>(s_onehour));
     milliseconds_type ms_onehour (s_onehour);  // 3600000ms (ok, no type truncation)
-  
+
     std::cout << ms_onehour.count() << "ms in 1h" << std::endl;
     return 0;
 
