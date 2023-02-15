@@ -1,2 +1,2 @@
 # recipes
-mail about my code note
+about my code note
