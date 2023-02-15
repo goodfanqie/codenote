@@ -19,7 +19,6 @@ int main()
     typedef std::chrono::duration<int, std::milli> milliseconds_type;
     typedef std::chrono::duration<int, std::ratio<60 * 60>> hours_type;
 
-
     hours_type h_oneday(24);                            // 24h
     seconds_type s_oneday(60 * 60 * 24);                // 86400s
     milliseconds_type ms_oneday(s_oneday);              // 86400000ms
