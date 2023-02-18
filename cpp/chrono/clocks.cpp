@@ -18,7 +18,6 @@
 int main ()
 {
   using std::chrono::system_clock;
-
   std::chrono::duration<int,std::ratio<60*60*24> > one_day (1);
 
   system_clock::time_point today = system_clock::now();
