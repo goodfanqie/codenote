@@ -1,2 +1,2 @@
 # recipes
-about my code note
+Hinc itur ad astra.
