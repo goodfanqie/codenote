@@ -1,2 +1,2 @@
 # recipes
-Hinc itur ad astra.
+walk slow but never stop
